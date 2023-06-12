@@ -1,0 +1,15 @@
+epd1in54.c:31:5:EPD_Init	16	static
+epd1in54.c:70:6:EPD_DigitalWrite	24	static
+epd1in54.c:78:5:EPD_DigitalRead	16	static
+epd1in54.c:86:6:EPD_DelayMs	16	static
+epd1in54.c:93:6:EPD_SendCommand	16	static
+epd1in54.c:101:6:EPD_SendData	16	static
+epd1in54.c:109:6:EPD_WaitUntilIdle	16	static
+epd1in54.c:120:6:EPD_Reset	16	static
+epd1in54.c:135:6:EPD_SetFrameMemory	56	static
+epd1in54.c:181:6:EPD_ClearFrameMemory	32	static
+epd1in54.c:198:6:EPD_DisplayFrame	16	static
+epd1in54.c:212:6:EPD_Sleep	16	static
+epd1in54.c:220:13:EPD_SetLut	24	static
+epd1in54.c:232:13:EPD_SetMemoryArea	24	static
+epd1in54.c:247:13:EPD_SetMemoryPointer	24	static

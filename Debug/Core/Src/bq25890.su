@@ -1,0 +1,5 @@
+bq25890.c:10:6:BQ25890_write_reg	32	static
+bq25890.c:18:9:BQ25890_read_reg	40	static
+bq25890.c:28:6:BQ25890_start_ADC	32	static
+bq25890.c:36:10:BQ25890_read_bat_voltage	32	static
+bq25890.c:47:10:BQ25890_read_chg_current	40	static
